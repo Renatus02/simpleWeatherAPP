@@ -39,8 +39,9 @@ dependencies:
   geolocator: ^10.1.0
   geocoding: ^2.1.1
   lottie: ^2.7.0
-
+  json_annotation:
 dev_dependencies:
+  json_serializable:
   flutter_test:
     sdk: flutter
 
